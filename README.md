@@ -1,8 +1,5 @@
-# undercover-osu
-undercover cheat for osu!
+aim assist and relax added
 
-
-
-
-# undercover osu fork
-so that it doesnt get priv'd again :)
+===========================================================
+#undercover
+undercover updated by me
